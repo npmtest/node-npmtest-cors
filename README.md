@@ -1,6 +1,6 @@
 # npmtest-cors
 
-#### test coverage for  [cors (v2.8.3)](https://github.com/expressjs/cors#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cors.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cors) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cors.svg)](https://travis-ci.org/npmtest/node-npmtest-cors)
+#### basic test coverage for  [cors (v2.8.3)](https://github.com/expressjs/cors#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cors.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cors) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cors.svg)](https://travis-ci.org/npmtest/node-npmtest-cors)
 
 #### Node.js CORS middleware
 
